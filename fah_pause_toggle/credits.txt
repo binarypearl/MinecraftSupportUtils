@@ -1,0 +1,2 @@
+mc_status was taken and slightly modified from:
+https://github.com/markfickett/minecraftstatus
